@@ -30,7 +30,7 @@ An interactive web application showcasing the 58 provinces (wilayas) of Algeria 
 
 1. Clone the repository:
 ```bash
-git clone <your-repository-url>
+git clone <tayebg/dz-map-explorer>
 cd algeria-interactive-map
 ```
 
